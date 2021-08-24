@@ -1,3 +1,4 @@
+console.log = function() {}
 var canvas = $('canvas')[0];
 var context = canvas.getContext('2d');
 
