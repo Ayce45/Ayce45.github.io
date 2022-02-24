@@ -1,14 +1,1 @@
-/* Theme */
-
-main {
-	background: #FAFAFA;
-	color: #0277BD;
-}
-
-.icons-social a {
-	color: #0277BD;
-}
-
-.icons-social a svg path{
-	fill: #0277BD;
-}
+@charset "utf-8"; main{background:#FAFAFA;color:#0277BD}.icons-social a{color:#0277BD}.icons-social a svg path{fill:#0277BD}
